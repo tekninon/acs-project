@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+dist/
+.vscode/
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Vue.js build files
+dist/
+build/
+
+# Node.js
+/node_modules/
+/.npm
+/.yarn
+/.cache
+
+# Backend
+/uploads/
+/temp/
+
+# Debug
+*.log
+*.pid
+*.seed
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Misc
+.DS_Store
+Thumbs.db

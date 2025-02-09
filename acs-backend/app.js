@@ -28,4 +28,5 @@ app.use("/api/players", playerRoutes);
 app.use("/api/games", gameRoutes);
 app.use("/api/tournaments", tournamentRoutes);
 
+
 module.exports = app; // Exportez l'application pour pouvoir l'utiliser dans index.js
